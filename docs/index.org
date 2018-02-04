@@ -1,0 +1,12 @@
+* github pageのテスト
+
+masterブランチにdocsファルダを作ると静的ページが作れる
+
+
+画像も貼れる
+
+
+[[file:./img/lena_std.png]]
+
+#+OPTIONS: toc:nil
+
