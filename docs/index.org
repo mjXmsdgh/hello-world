@@ -6,7 +6,7 @@ masterブランチにdocsファルダを作ると静的ページが作れる
 画像も貼れる
 
 
-[[file:./img/lena_std.png]]
+[[file:./img/test_image.png]]
 
 #+OPTIONS: toc:nil
 
